@@ -1,7 +1,7 @@
 import { CryptoBlock } from "./CryptoBlock";
 import { CryptoBlockChain } from "./CryptoBlockchain";
 
-const BLOCKCHAIN_DIFFICULTY = 7
+const BLOCKCHAIN_DIFFICULTY = 5
 
 const smashingCoin = new CryptoBlockChain(BLOCKCHAIN_DIFFICULTY)
 
